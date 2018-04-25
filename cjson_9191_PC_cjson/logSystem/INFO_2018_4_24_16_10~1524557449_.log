@@ -1,0 +1,300 @@
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557424000,
+			"updateTime":	1524557424000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"西安人的歌",
+			"albumName":	"西安人的歌",
+			"singerName":	"范炜与程渤智",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160909/20160909050535711110.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687314551354425344,
+			"songSize":	4705315848066169856,
+			"songUrl":	"http://fs.w.kugou.com/201804241546/bbb9f097709c8c8be2c3badc4fad0526/G063/M09/05/13/fw0DAFc7QWqATSLVADlHq7Ji1x0778.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"西安人的歌",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241546/bbb9f097709c8c8be2c3badc4fad0526/G063/M09/05/13/fw0DAFc7QWqATSLVADlHq7Ji1x0778.mp3"|"西安人的歌"|"范炜与程渤智"
+media_url_"http://fs.w.kugou.com/201804241546/bbb9f097709c8c8be2c3badc4fad0526/G063/M09/05/13/fw0DAFc7QWqATSLVADlHq7Ji1x0778.mp3"		&
+http://fs.w.kugou.com/201804241546/bbb9f097709c8c8be2c3badc4fad0526/G063/M09/05/13/fw0DAFc7QWqATSLVADlHq7Ji1x0778.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557427000,
+			"updateTime":	1524557427000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"一笑倾城",
+			"albumName":	"一笑倾城",
+			"singerName":	"汪苏泷",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160819/20160819182414954415.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687177112400953344,
+			"songSize":	4705220967943634944,
+			"songUrl":	"http://fs.w.kugou.com/201804241518/b5a2fca9c8f8bbdac7b823ccfeef3c18/G073/M07/12/01/iQ0DAFe23nGAO6X1ADibFU3fzWk465.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"一笑倾城",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241518/b5a2fca9c8f8bbdac7b823ccfeef3c18/G073/M07/12/01/iQ0DAFe23nGAO6X1ADibFU3fzWk465.mp3"|"一笑倾城"|"汪苏泷"
+media_url_"http://fs.w.kugou.com/201804241518/b5a2fca9c8f8bbdac7b823ccfeef3c18/G073/M07/12/01/iQ0DAFe23nGAO6X1ADibFU3fzWk465.mp3"		&
+http://fs.w.kugou.com/201804241518/b5a2fca9c8f8bbdac7b823ccfeef3c18/G073/M07/12/01/iQ0DAFe23nGAO6X1ADibFU3fzWk465.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557435000,
+			"updateTime":	1524557435000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"无奈情歌",
+			"albumName":	"无奈情歌",
+			"singerName":	"张北北",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180319/20180319184540575671.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4685665971107528704,
+			"songSize":	4703687720453537792,
+			"songUrl":	"http://fs.w.kugou.com/201804241608/148886868bd0e32d260f1d2146153c46/G123/M01/02/05/W5QEAFqvlOuAefg1AC22H6CEdCo396.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"无奈情歌",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241608/148886868bd0e32d260f1d2146153c46/G123/M01/02/05/W5QEAFqvlOuAefg1AC22H6CEdCo396.mp3"|"无奈情歌"|"张北北"
+media_url_"http://fs.w.kugou.com/201804241608/148886868bd0e32d260f1d2146153c46/G123/M01/02/05/W5QEAFqvlOuAefg1AC22H6CEdCo396.mp3"		&
+http://fs.w.kugou.com/201804241608/148886868bd0e32d260f1d2146153c46/G123/M01/02/05/W5QEAFqvlOuAefg1AC22H6CEdCo396.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557442000,
+			"updateTime":	1524557442000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"朋友名义",
+			"albumName":	"朋友名义",
+			"singerName":	"六哲",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20140903/20140903155951270639.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686627356587065344,
+			"songSize":	4704657487561752576,
+			"songUrl":	"http://fs.w.kugou.com/201804241520/e82843e2bbf877d5a4896ebeabafd845/G009/M01/18/17/SQ0DAFUK1ByALrMcADSaHiKuHac867.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"朋友名义",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241520/e82843e2bbf877d5a4896ebeabafd845/G009/M01/18/17/SQ0DAFUK1ByALrMcADSaHiKuHac867.mp3"|"朋友名义"|"六哲"
+media_url_"http://fs.w.kugou.com/201804241520/e82843e2bbf877d5a4896ebeabafd845/G009/M01/18/17/SQ0DAFUK1ByALrMcADSaHiKuHac867.mp3"		&
+http://fs.w.kugou.com/201804241520/e82843e2bbf877d5a4896ebeabafd845/G009/M01/18/17/SQ0DAFUK1ByALrMcADSaHiKuHac867.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557447000,
+			"updateTime":	1524557447000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"感谢",
+			"albumName":	"别再骗我",
+			"singerName":	"黑龙",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160908/20160908170731785538.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688116885605056512,
+			"songSize":	4706133899749621760,
+			"songUrl":	"http://fs.w.kugou.com/201804241521/6bc589a95dc350d7fe5f9e2336d604b8/G002/M08/08/1F/Qg0DAFS96laACa4iAD8XsvHCBOg871.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"感谢",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241521/6bc589a95dc350d7fe5f9e2336d604b8/G002/M08/08/1F/Qg0DAFS96laACa4iAD8XsvHCBOg871.mp3"|"感谢"|"黑龙"
+media_url_"http://fs.w.kugou.com/201804241521/6bc589a95dc350d7fe5f9e2336d604b8/G002/M08/08/1F/Qg0DAFS96laACa4iAD8XsvHCBOg871.mp3"		&
+http://fs.w.kugou.com/201804241521/6bc589a95dc350d7fe5f9e2336d604b8/G002/M08/08/1F/Qg0DAFS96laACa4iAD8XsvHCBOg871.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌

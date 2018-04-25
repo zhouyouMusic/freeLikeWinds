@@ -1,0 +1,300 @@
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557452000,
+			"updateTime":	1524557452000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"愿做菩萨那朵莲",
+			"albumName":	"阿弥陀佛",
+			"singerName":	"路勇",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150717/20150717145518704141.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687589429261369344,
+			"songSize":	4705606209330216960,
+			"songUrl":	"http://fs.w.kugou.com/201804241542/8beeb8b7fd38647aeffc94d99a62b438/G010/M04/1C/0B/qoYBAFULd0mAQpEmADtX1d1texc747.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"愿做菩萨那朵莲",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241542/8beeb8b7fd38647aeffc94d99a62b438/G010/M04/1C/0B/qoYBAFULd0mAQpEmADtX1d1texc747.mp3"|"愿做菩萨那朵莲"|"路勇"
+media_url_"http://fs.w.kugou.com/201804241542/8beeb8b7fd38647aeffc94d99a62b438/G010/M04/1C/0B/qoYBAFULd0mAQpEmADtX1d1texc747.mp3"		&
+http://fs.w.kugou.com/201804241542/8beeb8b7fd38647aeffc94d99a62b438/G010/M04/1C/0B/qoYBAFULd0mAQpEmADtX1d1texc747.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌3
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557463000,
+			"updateTime":	1524557463000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"没有你陪伴真的好孤单",
+			"albumName":	"噢 爱人",
+			"singerName":	"梦然",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150720/20150720202959803580.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688622695313571840,
+			"songSize":	4706632435931021312,
+			"songUrl":	"http://fs.w.kugou.com/201804241601/0d671172af8449703323ae149964ec98/G008/M08/17/19/qIYBAFUNqSyAbbQEAEVFDnjcjL0459.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌3",
+		"answer":	"没有你陪伴真的好孤单",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241601/0d671172af8449703323ae149964ec98/G008/M08/17/19/qIYBAFUNqSyAbbQEAEVFDnjcjL0459.mp3"|"没有你陪伴真的好孤单"|"梦然"
+media_url_"http://fs.w.kugou.com/201804241601/0d671172af8449703323ae149964ec98/G008/M08/17/19/qIYBAFUNqSyAbbQEAEVFDnjcjL0459.mp3"		&
+http://fs.w.kugou.com/201804241601/0d671172af8449703323ae149964ec98/G008/M08/17/19/qIYBAFUNqSyAbbQEAEVFDnjcjL0459.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557540000,
+			"updateTime":	1524557540000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"离人愁",
+			"albumName":	"离人愁",
+			"singerName":	"叶洛洛",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180405/20180405204008577996.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687143508576828416,
+			"songSize":	4705165925790253056,
+			"songUrl":	"http://fs.w.kugou.com/201804241612/4fe201113aeba3687328eb599b5ffb22/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"离人愁",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241612/4fe201113aeba3687328eb599b5ffb22/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3"|"离人愁"|"叶洛洛"
+media_url_"http://fs.w.kugou.com/201804241612/4fe201113aeba3687328eb599b5ffb22/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3"		&
+http://fs.w.kugou.com/201804241612/4fe201113aeba3687328eb599b5ffb22/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557541000,
+			"updateTime":	1524557541000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"远走高飞",
+			"albumName":	"未知专辑",
+			"singerName":	"冯提莫",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://singerimg.kugou.com/uploadpic/softhead/400/20180327/20180327183312661.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687520709784633344,
+			"songSize":	4705540268697321472,
+			"songUrl":	"http://fs.w.kugou.com/201804241612/6a6fc8fea74633c465ba90468711c847/G109/M05/0C/17/rQ0DAFnISDuAWKG2ADrf473L7Tg425.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"远走高飞",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241612/6a6fc8fea74633c465ba90468711c847/G109/M05/0C/17/rQ0DAFnISDuAWKG2ADrf473L7Tg425.mp3"|"远走高飞"|"冯提莫"
+media_url_"http://fs.w.kugou.com/201804241612/6a6fc8fea74633c465ba90468711c847/G109/M05/0C/17/rQ0DAFnISDuAWKG2ADrf473L7Tg425.mp3"		&
+http://fs.w.kugou.com/201804241612/6a6fc8fea74633c465ba90468711c847/G109/M05/0C/17/rQ0DAFnISDuAWKG2ADrf473L7Tg425.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557543000,
+			"updateTime":	1524557543000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"美美哒",
+			"albumName":	"美美哒",
+			"singerName":	"门丽",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20151218/20151218170609125599.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686730435802169344,
+			"songSize":	4704774248395177984,
+			"songUrl":	"http://fs.w.kugou.com/201804241604/0fe855c0fd06fd3125d0fe94db8c8636/G047/M0A/10/03/z4YBAFYbrLyAMD-bADVugQYuEEA787.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"美美哒",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241604/0fe855c0fd06fd3125d0fe94db8c8636/G047/M0A/10/03/z4YBAFYbrLyAMD-bADVugQYuEEA787.mp3"|"美美哒"|"门丽"
+media_url_"http://fs.w.kugou.com/201804241604/0fe855c0fd06fd3125d0fe94db8c8636/G047/M0A/10/03/z4YBAFYbrLyAMD-bADVugQYuEEA787.mp3"		&
+http://fs.w.kugou.com/201804241604/0fe855c0fd06fd3125d0fe94db8c8636/G047/M0A/10/03/z4YBAFYbrLyAMD-bADVugQYuEEA787.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌

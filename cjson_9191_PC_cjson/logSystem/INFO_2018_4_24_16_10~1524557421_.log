@@ -1,0 +1,333 @@
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557302000,
+			"updateTime":	1524557302000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"樱花树下的约定 (原版)",
+			"albumName":	"樱花树下的约定",
+			"singerName":	"夏凌兮",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180110/20180110003252149626.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686526270236786688,
+			"songSize":	4704559929527107584,
+			"songUrl":	"http://fs.w.kugou.com/201804241553/413aea6e53a969d164c2d70dfa856f7f/G120/M07/0D/17/WJQEAFpU9dmAGqPwADPoqWS-T-Y983.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"樱花树下的约定 (原版)",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241553/413aea6e53a969d164c2d70dfa856f7f/G120/M07/0D/17/WJQEAFpU9dmAGqPwADPoqWS-T-Y983.mp3"|"樱花树下的约定 (原版)"|"夏凌兮"
+media_url_"http://fs.w.kugou.com/201804241553/413aea6e53a969d164c2d70dfa856f7f/G120/M07/0D/17/WJQEAFpU9dmAGqPwADPoqWS-T-Y983.mp3"		&
+http://fs.w.kugou.com/201804241553/413aea6e53a969d164c2d70dfa856f7f/G120/M07/0D/17/WJQEAFpU9dmAGqPwADPoqWS-T-Y983.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557369000,
+			"updateTime":	1524557369000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"一次就好",
+			"albumName":	"一次就好",
+			"singerName":	"杨宗纬",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20151015/20151015104057963696.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688313457668259840,
+			"songSize":	4706343354567228416,
+			"songUrl":	"http://fs.w.kugou.com/201804241548/c416c522771a60607285b492c4a5b57e/G037/M09/13/1F/xYYBAFYmJxOAd6GkAEEpYqirB8A591.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"一次就好",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241548/c416c522771a60607285b492c4a5b57e/G037/M09/13/1F/xYYBAFYmJxOAd6GkAEEpYqirB8A591.mp3"|"一次就好"|"杨宗纬"
+media_url_"http://fs.w.kugou.com/201804241548/c416c522771a60607285b492c4a5b57e/G037/M09/13/1F/xYYBAFYmJxOAd6GkAEEpYqirB8A591.mp3"		&
+http://fs.w.kugou.com/201804241548/c416c522771a60607285b492c4a5b57e/G037/M09/13/1F/xYYBAFYmJxOAd6GkAEEpYqirB8A591.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557382000,
+			"updateTime":	1524557382000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"不再联系",
+			"albumName":	"不再联系",
+			"singerName":	"程响",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150719/20150719045056799497.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687348911092793344,
+			"songSize":	4705394819629842432,
+			"songUrl":	"http://fs.w.kugou.com/201804241540/c483faec8949797cd8844c987a4261b5/G011/M03/1D/05/q4YBAFUA2lCAHWvaADnXUUzhy7w083.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"不再联系",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241540/c483faec8949797cd8844c987a4261b5/G011/M03/1D/05/q4YBAFUA2lCAHWvaADnXUUzhy7w083.mp3"|"不再联系"|"程响"
+media_url_"http://fs.w.kugou.com/201804241540/c483faec8949797cd8844c987a4261b5/G011/M03/1D/05/q4YBAFUA2lCAHWvaADnXUUzhy7w083.mp3"		&
+http://fs.w.kugou.com/201804241540/c483faec8949797cd8844c987a4261b5/G011/M03/1D/05/q4YBAFUA2lCAHWvaADnXUUzhy7w083.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 换一首
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"换一首",
+		"answer":	"下一个|换一个 顺序播放",
+		"service":	"com.huwen.mediacontrol",
+		"cmdType":	"mediaControl",
+		"params":	{
+			"mediaOperation":	"mediaNext",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+		&
+quesCmdBuf - 上一首
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"上一首",
+		"answer":	"上一个 顺序播放",
+		"service":	"com.huwen.mediacontrol",
+		"cmdType":	"mediaControl",
+		"params":	{
+			"mediaOperation":	"mediaPrevious",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+		&
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557409000,
+			"updateTime":	1524557409000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"曹操",
+			"albumName":	"期待爱 新歌+精选",
+			"singerName":	"林俊杰",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20130704/20130704203808895432.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687625919303516160,
+			"songSize":	4705650176910426112,
+			"songUrl":	"http://fs.w.kugou.com/201804241530/4d0747d70b7f261bf5e9a0d3b775783e/G009/M01/06/11/SQ0DAFUOJr6AcSpqADunzw4O66U197.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"曹操",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241530/4d0747d70b7f261bf5e9a0d3b775783e/G009/M01/06/11/SQ0DAFUOJr6AcSpqADunzw4O66U197.mp3"|"曹操"|"林俊杰"
+media_url_"http://fs.w.kugou.com/201804241530/4d0747d70b7f261bf5e9a0d3b775783e/G009/M01/06/11/SQ0DAFUOJr6AcSpqADunzw4O66U197.mp3"		&
+http://fs.w.kugou.com/201804241530/4d0747d70b7f261bf5e9a0d3b775783e/G009/M01/06/11/SQ0DAFUOJr6AcSpqADunzw4O66U197.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557419000,
+			"updateTime":	1524557419000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"行星",
+			"albumName":	"行星（Planet中文版）",
+			"singerName":	"蔡方萌",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180311/20180311093036283101.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687625163389272064,
+			"songSize":	4705652979376586752,
+			"songUrl":	"http://fs.w.kugou.com/201804241556/ca660ec4331d2e78c220897ec83be119/G132/M0A/1E/03/xA0DAFqXb5OASYsJADus6LMkvLg293.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"行星",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241556/ca660ec4331d2e78c220897ec83be119/G132/M0A/1E/03/xA0DAFqXb5OASYsJADus6LMkvLg293.mp3"|"行星"|"蔡方萌"
+media_url_"http://fs.w.kugou.com/201804241556/ca660ec4331d2e78c220897ec83be119/G132/M0A/1E/03/xA0DAFqXb5OASYsJADus6LMkvLg293.mp3"		&
+http://fs.w.kugou.com/201804241556/ca660ec4331d2e78c220897ec83be119/G132/M0A/1E/03/xA0DAFqXb5OASYsJADus6LMkvLg293.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
