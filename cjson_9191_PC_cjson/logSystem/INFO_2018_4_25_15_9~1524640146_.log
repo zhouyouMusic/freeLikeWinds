@@ -1,0 +1,345 @@
+tts_text_"问句全是非法字符无意义，请重新输入！"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524638568000,
+			"updateTime":	1524638568000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"丑八怪",
+			"albumName":	"意外",
+			"singerName":	"薛之谦",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150715/20150715184807521489.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687933026645049344,
+			"songSize":	4705962573504184320,
+			"songUrl":	"http://fs.w.kugou.com/201804251354/d6144176bead3b5c3cb0be4e14de2a59/G009/M02/06/15/SQ0DAFUJf-KAa_LnAD3gDgbvu7o702.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"丑八怪",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251354/d6144176bead3b5c3cb0be4e14de2a59/G009/M02/06/15/SQ0DAFUJf-KAa_LnAD3gDgbvu7o702.mp3"|"丑八怪"|"薛之谦"
+media_url_"http://fs.w.kugou.com/201804251354/d6144176bead3b5c3cb0be4e14de2a59/G009/M02/06/15/SQ0DAFUJf-KAa_LnAD3gDgbvu7o702.mp3"		&
+http://fs.w.kugou.com/201804251354/d6144176bead3b5c3cb0be4e14de2a59/G009/M02/06/15/SQ0DAFUJf-KAa_LnAD3gDgbvu7o702.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"歌",
+		"commandName":	"CommandChat",
+		"answer":	"您也可以命令我：小智播放周杰伦的青花瓷。",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"您也可以命令我：小智播放周杰伦的青花瓷。"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+quesCmdBuf - 听歌
+dataBoradCast ^^^^end  ####### _WAIT	writed
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524638715000,
+			"updateTime":	1524638715000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"一壶老酒",
+			"albumName":	"一壶老酒",
+			"singerName":	"陆树铭",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150718/20150718130030849792.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688173544813625344,
+			"songSize":	4706206677970452480,
+			"songUrl":	"http://fs.w.kugou.com/201804251350/a8e3eab64c1f241efdbb07b8019b9711/G016/M01/00/19/sIYBAFWEyBKAK4dHAD-cFMHwyRk092.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"一壶老酒",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251350/a8e3eab64c1f241efdbb07b8019b9711/G016/M01/00/19/sIYBAFWEyBKAK4dHAD-cFMHwyRk092.mp3"|"一壶老酒"|"陆树铭"
+media_url_"http://fs.w.kugou.com/201804251350/a8e3eab64c1f241efdbb07b8019b9711/G016/M01/00/19/sIYBAFWEyBKAK4dHAD-cFMHwyRk092.mp3"		&
+http://fs.w.kugou.com/201804251350/a8e3eab64c1f241efdbb07b8019b9711/G016/M01/00/19/sIYBAFWEyBKAK4dHAD-cFMHwyRk092.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+start from main func!!!!!!
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"你想问的是什么呀",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"你想问的是什么呀"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524639017000,
+			"updateTime":	1524639017000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"意外",
+			"albumName":	"意外",
+			"singerName":	"薛之谦",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150715/20150715184807521489.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688674234921123840,
+			"songSize":	4706704910282915840,
+			"songUrl":	"http://fs.w.kugou.com/201804251418/196eaa7d6bc5dbe0e5cd6bb30537f403/G010/M07/1D/03/qoYBAFUJw4uAYCPrAEZMtzCkT50885.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"意外",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251418/196eaa7d6bc5dbe0e5cd6bb30537f403/G010/M07/1D/03/qoYBAFUJw4uAYCPrAEZMtzCkT50885.mp3"|"意外"|"薛之谦"
+media_url_"http://fs.w.kugou.com/201804251418/196eaa7d6bc5dbe0e5cd6bb30537f403/G010/M07/1D/03/qoYBAFUJw4uAYCPrAEZMtzCkT50885.mp3"		&
+http://fs.w.kugou.com/201804251418/196eaa7d6bc5dbe0e5cd6bb30537f403/G010/M07/1D/03/qoYBAFUJw4uAYCPrAEZMtzCkT50885.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524639040000,
+			"updateTime":	1524639040000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"我们",
+			"albumName":	"我们",
+			"singerName":	"王乐乐",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20170614/20170614142007378150.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686799155278905344,
+			"songSize":	4704814971127595008,
+			"songUrl":	"http://fs.w.kugou.com/201804251429/4582c6fc2f43b24b863432f0aa557111/G112/M07/1E/11/sA0DAFlA1DGAKnSXADW4lFTsp9U353.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"我们",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251429/4582c6fc2f43b24b863432f0aa557111/G112/M07/1E/11/sA0DAFlA1DGAKnSXADW4lFTsp9U353.mp3"|"我们"|"王乐乐"
+media_url_"http://fs.w.kugou.com/201804251429/4582c6fc2f43b24b863432f0aa557111/G112/M07/1E/11/sA0DAFlA1DGAKnSXADW4lFTsp9U353.mp3"		&
+http://fs.w.kugou.com/201804251429/4582c6fc2f43b24b863432f0aa557111/G112/M07/1E/11/sA0DAFlA1DGAKnSXADW4lFTsp9U353.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524639054000,
+			"updateTime":	1524639054000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"今生陪你一起走",
+			"albumName":	"冷漠经典情歌合集",
+			"singerName":	"冷漠",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160907/20160907181113218124.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4689155271258275840,
+			"songSize":	4707179715696263168,
+			"songUrl":	"http://fs.w.kugou.com/201804251450/e651a5f3d798962647e4c4f59243d03a/G111/M06/0D/0D/T5QEAFmcvMeAXHIJAE0MDDqVC-A132.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"今生陪你一起走",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251450/e651a5f3d798962647e4c4f59243d03a/G111/M06/0D/0D/T5QEAFmcvMeAXHIJAE0MDDqVC-A132.mp3"|"今生陪你一起走"|"冷漠"
+media_url_"http://fs.w.kugou.com/201804251450/e651a5f3d798962647e4c4f59243d03a/G111/M06/0D/0D/T5QEAFmcvMeAXHIJAE0MDDqVC-A132.mp3"		&
+http://fs.w.kugou.com/201804251450/e651a5f3d798962647e4c4f59243d03a/G111/M06/0D/0D/T5QEAFmcvMeAXHIJAE0MDDqVC-A132.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+quesCmdBuf - \\

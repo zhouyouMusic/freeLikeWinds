@@ -1,0 +1,364 @@
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"\\",
+		"commandName":	"CommandChat",
+		"answer":	"问句全是非法字符无意义，请重新输入！",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"问句全是非法字符无意义，请重新输入！"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+start from main func!!!!!!
+quesCmdBuf - 歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"歌",
+		"commandName":	"CommandChat",
+		"answer":	"您也可以命令我：小智播放周杰伦的青花瓷。",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"您也可以命令我：小智播放周杰伦的青花瓷。"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524641443000,
+			"updateTime":	1524641443000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"花桥流水",
+			"albumName":	"花桥流水",
+			"singerName":	"高安",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150720/20150720203437302164.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686592996848697344,
+			"songSize":	4704641697114488832,
+			"songUrl":	"http://fs.w.kugou.com/201804251520/442e09f4e70df7670722735a446f85c0/G083/M08/11/19/84YBAFgusI-ATeKUADR9ZdGphjs645.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"花桥流水",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251520/442e09f4e70df7670722735a446f85c0/G083/M08/11/19/84YBAFgusI-ATeKUADR9ZdGphjs645.mp3"|"花桥流水"|"高安"
+media_url_"http://fs.w.kugou.com/201804251520/442e09f4e70df7670722735a446f85c0/G083/M08/11/19/84YBAFgusI-ATeKUADR9ZdGphjs645.mp3"		&
+http://fs.w.kugou.com/201804251520/442e09f4e70df7670722735a446f85c0/G083/M08/11/19/84YBAFgusI-ATeKUADR9ZdGphjs645.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"\"ll\"？你想说什么呀？",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"\"ll\"？你想说什么呀？"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - quit()
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"quit()",
+		"commandName":	"CommandChat",
+		"answer":	"问句全是非法字符无意义，请重新输入！",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"问句全是非法字符无意义，请重新输入！"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"\"ll\"？你想说什么呀？",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"\"ll\"？你想说什么呀？"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524643609000,
+			"updateTime":	1524643609000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"小星星",
+			"albumName":	"慢慢懂",
+			"singerName":	"汪苏泷",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160907/20160907200627105135.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686007644345860096,
+			"songSize":	4704022324175699968,
+			"songUrl":	"http://fs.w.kugou.com/201804251552/e9255777490ed3e930f95b4b7953d327/G008/M02/07/18/qIYBAFUKhaCAK_x1ADAWw0t1fOk441.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"小星星",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251552/e9255777490ed3e930f95b4b7953d327/G008/M02/07/18/qIYBAFUKhaCAK_x1ADAWw0t1fOk441.mp3"|"小星星"|"汪苏泷"
+media_url_"http://fs.w.kugou.com/201804251552/e9255777490ed3e930f95b4b7953d327/G008/M02/07/18/qIYBAFUKhaCAK_x1ADAWw0t1fOk441.mp3"		&
+http://fs.w.kugou.com/201804251552/e9255777490ed3e930f95b4b7953d327/G008/M02/07/18/qIYBAFUKhaCAK_x1ADAWw0t1fOk441.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524643620000,
+			"updateTime":	1524643620000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"风筝误",
+			"albumName":	"风筝误",
+			"singerName":	"刘珂矣",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150624/20150624164512822879.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687417630569529344,
+			"songSize":	4706121420722143232,
+			"songUrl":	"http://fs.w.kugou.com/201804251545/26839e9aebe2c485a6f49e827ce662c3/G022/M06/12/03/9pMEAFWKLteAftb0AD8A_yIk33g406.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"风筝误",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251545/26839e9aebe2c485a6f49e827ce662c3/G022/M06/12/03/9pMEAFWKLteAftb0AD8A_yIk33g406.mp3"|"风筝误"|"刘珂矣"
+media_url_"http://fs.w.kugou.com/201804251545/26839e9aebe2c485a6f49e827ce662c3/G022/M06/12/03/9pMEAFWKLteAftb0AD8A_yIk33g406.mp3"		&
+http://fs.w.kugou.com/201804251545/26839e9aebe2c485a6f49e827ce662c3/G022/M06/12/03/9pMEAFWKLteAftb0AD8A_yIk33g406.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524643646000,
+			"updateTime":	1524643646000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"草木",
+			"albumName":	"草木",
+			"singerName":	"若以止白",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20170214/20170214101008221724.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4689653487464611840,
+			"songSize":	4707664215924539392,
+			"songUrl":	"http://fs.w.kugou.com/201804251539/6156b4fc965ed1263371c43fa1166781/G092/M08/0C/0F/nA0DAFiiOY6APPV-AFPuptRWZI4997.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"草木",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251539/6156b4fc965ed1263371c43fa1166781/G092/M08/0C/0F/nA0DAFiiOY6APPV-AFPuptRWZI4997.mp3"|"草木"|"若以止白"
+media_url_"http://fs.w.kugou.com/201804251539/6156b4fc965ed1263371c43fa1166781/G092/M08/0C/0F/nA0DAFiiOY6APPV-AFPuptRWZI4997.mp3"		&
+http://fs.w.kugou.com/201804251539/6156b4fc965ed1263371c43fa1166781/G092/M08/0C/0F/nA0DAFiiOY6APPV-AFPuptRWZI4997.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+start from main func!!!!!!

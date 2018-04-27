@@ -1,0 +1,350 @@
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822230000,
+			"updateTime":	1524822230000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"追光者",
+			"albumName":	"追光者",
+			"singerName":	"岑宁儿",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20170613/20170613110822789966.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687314551354425344,
+			"songSize":	4705359476343963648,
+			"songUrl":	"http://fs.w.kugou.com/201804271723/bb7b9273249130bf826a1e05dc0373be/G108/M03/0C/01/rA0DAFk_VuiALN9DADmXB0zHYTA058.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"追光者",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271723/bb7b9273249130bf826a1e05dc0373be/G108/M03/0C/01/rA0DAFk_VuiALN9DADmXB0zHYTA058.mp3"|"追光者"|"岑宁儿"
+media_url_"http://fs.w.kugou.com/201804271723/bb7b9273249130bf826a1e05dc0373be/G108/M03/0C/01/rA0DAFk_VuiALN9DADmXB0zHYTA058.mp3"		&
+http://fs.w.kugou.com/201804271723/bb7b9273249130bf826a1e05dc0373be/G108/M03/0C/01/rA0DAFk_VuiALN9DADmXB0zHYTA058.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822302000,
+			"updateTime":	1524822302000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"没有你陪伴我真的好孤单",
+			"albumName":	"没有你陪伴我真的好孤单",
+			"singerName":	"冷漠",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160909/20160909005617437451.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688708594659491840,
+			"songSize":	4706734982570180608,
+			"songUrl":	"http://fs.w.kugou.com/201804271728/13882e78f45ec8158afc960ee010142b/G013/M08/1C/17/rYYBAFUMqcCAFSX8AEa6HlvqbGU888.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"没有你陪伴我真的好孤单",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271728/13882e78f45ec8158afc960ee010142b/G013/M08/1C/17/rYYBAFUMqcCAFSX8AEa6HlvqbGU888.mp3"|"没有你陪伴我真的好孤单"|"冷漠"
+media_url_"http://fs.w.kugou.com/201804271728/13882e78f45ec8158afc960ee010142b/G013/M08/1C/17/rYYBAFUMqcCAFSX8AEa6HlvqbGU888.mp3"		&
+http://fs.w.kugou.com/201804271728/13882e78f45ec8158afc960ee010142b/G013/M08/1C/17/rYYBAFUMqcCAFSX8AEa6HlvqbGU888.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822306000,
+			"updateTime":	1524822306000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"冷战",
+			"albumName":	"异次元女",
+			"singerName":	"林嘉莹",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20171121/20171121102238727812.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686558637110329344,
+			"songSize":	4704591164676767744,
+			"songUrl":	"http://fs.w.kugou.com/201804271728/3426dde5184a16ffb8f446682eadc227/G101/M07/09/0B/RZQEAFjwOlKAUL8tADQhehXQMaM030.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"冷战",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271728/3426dde5184a16ffb8f446682eadc227/G101/M07/09/0B/RZQEAFjwOlKAUL8tADQhehXQMaM030.mp3"|"冷战"|"林嘉莹"
+media_url_"http://fs.w.kugou.com/201804271728/3426dde5184a16ffb8f446682eadc227/G101/M07/09/0B/RZQEAFjwOlKAUL8tADQhehXQMaM030.mp3"		&
+http://fs.w.kugou.com/201804271728/3426dde5184a16ffb8f446682eadc227/G101/M07/09/0B/RZQEAFjwOlKAUL8tADQhehXQMaM030.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822377000,
+			"updateTime":	1524822377000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"爱的就是你",
+			"albumName":	"爱的就是你",
+			"singerName":	"十二星宿 风之少年",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20171113/20171113105447723538.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687245831877689344,
+			"songSize":	4705291506339020800,
+			"songUrl":	"http://fs.w.kugou.com/201804221625/7856e706d4cc6f31dd8c57089394e5a6/G112/M09/09/07/sA0DAFoJDCSAfWuZADkbZOeWA6c108.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"爱的就是你",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804221625/7856e706d4cc6f31dd8c57089394e5a6/G112/M09/09/07/sA0DAFoJDCSAfWuZADkbZOeWA6c108.mp3"|"爱的就是你"|"十二星宿 风之少年"
+media_url_"http://fs.w.kugou.com/201804221625/7856e706d4cc6f31dd8c57089394e5a6/G112/M09/09/07/sA0DAFoJDCSAfWuZADkbZOeWA6c108.mp3"		&
+http://fs.w.kugou.com/201804221625/7856e706d4cc6f31dd8c57089394e5a6/G112/M09/09/07/sA0DAFoJDCSAfWuZADkbZOeWA6c108.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822410000,
+			"updateTime":	1524822410000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"妈妈我想你",
+			"albumName":	"再见丽江 行者",
+			"singerName":	"汤潮",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150717/20150717103237544992.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688553975836835840,
+			"songSize":	4706569107711983616,
+			"songUrl":	"http://fs.w.kugou.com/201804271719/798c26084b870394d86861ecac992e22/G033/M03/18/18/AZQEAFWiSxuAIOE4AEReq1scj0E794.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"妈妈我想你",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271719/798c26084b870394d86861ecac992e22/G033/M03/18/18/AZQEAFWiSxuAIOE4AEReq1scj0E794.mp3"|"妈妈我想你"|"汤潮"
+media_url_"http://fs.w.kugou.com/201804271719/798c26084b870394d86861ecac992e22/G033/M03/18/18/AZQEAFWiSxuAIOE4AEReq1scj0E794.mp3"		&
+http://fs.w.kugou.com/201804271719/798c26084b870394d86861ecac992e22/G033/M03/18/18/AZQEAFWiSxuAIOE4AEReq1scj0E794.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822416000,
+			"updateTime":	1524822416000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"蓝精灵",
+			"albumName":	"经典动画歌曲大赏",
+			"singerName":	"樊竹青",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150719/20150719010757750367.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4683395067279310848,
+			"songSize":	4701635857809932288,
+			"songUrl":	"http://fs.w.kugou.com/201804271709/2d2dd6d0ee116418f57f03c2567bebde/G006/M04/1B/19/Rg0DAFS5G1KAU3w5AB-Q55wRwmA802.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"蓝精灵",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|

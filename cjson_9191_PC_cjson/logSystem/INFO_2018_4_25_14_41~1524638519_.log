@@ -1,0 +1,369 @@
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557545000,
+			"updateTime":	1524557545000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"文爱",
+			"albumName":	"文爱",
+			"singerName":	"贺敬轩",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20170624/20170624062006553914.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686148347474477056,
+			"songSize":	4704182165678587904,
+			"songUrl":	"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"文爱",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3"|"文爱"|"贺敬轩"
+media_url_"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3"		&
+http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 放歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524557554000,
+			"updateTime":	1524557554000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"123我爱你+走在冷风中",
+			"albumName":	"未知专辑",
+			"singerName":	"冯提莫",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://singerimg.kugou.com/uploadpic/softhead/400/20180327/20180327183312661.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4684464789013921792,
+			"songSize":	4702499393197047808,
+			"songUrl":	"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"放歌",
+		"answer":	"123我爱你+走在冷风中",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3"|"123我爱你+走在冷风中"|"冯提莫"
+media_url_"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3"		&
+http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524638331000,
+			"updateTime":	1524638331000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"刚好遇见你",
+			"albumName":	"未知专辑",
+			"singerName":	"冯提莫",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://singerimg.kugou.com/uploadpic/softhead/400/20180327/20180327183312661.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686146320249913344,
+			"songSize":	4704186716196438016,
+			"songUrl":	"http://fs.w.kugou.com/201804251413/d0d3557f75abc97b3f3199a9861d9aa5/G086/M01/14/07/9oYBAFi57hqACj4hADFBytu_CZ0460.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"刚好遇见你",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251413/d0d3557f75abc97b3f3199a9861d9aa5/G086/M01/14/07/9oYBAFi57hqACj4hADFBytu_CZ0460.mp3"|"刚好遇见你"|"冯提莫"
+media_url_"http://fs.w.kugou.com/201804251413/d0d3557f75abc97b3f3199a9861d9aa5/G086/M01/14/07/9oYBAFi57hqACj4hADFBytu_CZ0460.mp3"		&
+http://fs.w.kugou.com/201804251413/d0d3557f75abc97b3f3199a9861d9aa5/G086/M01/14/07/9oYBAFi57hqACj4hADFBytu_CZ0460.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 下载
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"下载",
+		"commandName":	"CommandChat",
+		"answer":	"对不起，此项功能正在开发中，敬请期待",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"对不起，此项功能正在开发中，敬请期待"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524638348000,
+			"updateTime":	1524638348000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"离人愁",
+			"albumName":	"离人愁",
+			"singerName":	"叶洛洛",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180405/20180405204008577996.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4687143508576828416,
+			"songSize":	4705165925790253056,
+			"songUrl":	"http://fs.w.kugou.com/201804251439/525ea1a6c4d8a5124dc5caeccf65027b/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"离人愁",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804251439/525ea1a6c4d8a5124dc5caeccf65027b/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3"|"离人愁"|"叶洛洛"
+media_url_"http://fs.w.kugou.com/201804251439/525ea1a6c4d8a5124dc5caeccf65027b/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3"		&
+http://fs.w.kugou.com/201804251439/525ea1a6c4d8a5124dc5caeccf65027b/G128/M06/02/0D/wA0DAFrAvVqAPdm8ADg29lcCxSk627.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - q
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"q",
+		"commandName":	"CommandChat",
+		"answer":	"是鲁迅阿Q正传里的主人公，命运比较悲惨",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"是鲁迅阿Q正传里的主人公，命运比较悲惨"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+quesCmdBuf - 
+tts_text_		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+start from main func!!!!!!
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"能不能说点通俗易懂的",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"能不能说点通俗易懂的"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"你想说的是什么呀？",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"你想说的是什么呀？"		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+dataBoradCast ^^^^end  ####### _WAIT	writed
+dataBoradCast ^^^^end  ####### _WAIT	writed
+quesCmdBuf - ll
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"ll",
+		"commandName":	"CommandChat",
+		"answer":	"恕我才疏学浅，还理解不了\"ll\"",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}
+tts_text_"恕我才疏学浅，还理解不了\"ll\""		&
+dataBoradCast ^^^^^^^^^^^##########	PTHREAD_CHANGE_WAIT
+quesCmdBuf - quit()
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"txt":	"quit()",
+		"commandName":	"CommandChat",
+		"answer":	"问句全是非法字符无意义，请重新输入！",
+		"service":	"com.huwen.chat",
+		"cmdType":	"chat",
+		"params":	{
+			"answer":	""
+		},
+		"commandScore":	"0.8862546",
+		"desc":	"聊天功能"
+	},
+	"isDone":	"0"
+}

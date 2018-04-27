@@ -23,12 +23,16 @@
 #include <sys/time.h>
 #include <alsa/asoundlib.h>
 #include <linux/soundcard.h>
+#include <gtk/gtk.h>
+
 
 
 #include "mad.h"
 #include "semcParse.h"
 #include "madAlsaPlay.h"
 #include "baseModule.h"
+#include "../python_module/tc_python.h"
+
 
 madAlsaPlayHandle madAlsaHandTemp;
 SemcParseHandle  semcParseHandTemp;
@@ -179,8 +183,30 @@ void print_func(char * resBuf)
 }
 
 
-int main()
+
+char buffCmd[1024];
+void playMp3(GtkWidget *widget, gpointer *data)
 {
+	printf("mp3$$$$$$$$$$$$$$$$$$\n");
+	strcpy(buffCmd,"听歌");
+}
+
+void saveMp3(GtkWidget *widget, gpointer *data)
+{
+	printf("download mp3$$$$$$$$$$$$$$$$$$\n");
+	strcpy(buffCmd,"下载歌曲");
+}
+
+//这是一个回调函数，用来响应关闭信号
+void destroy(GtkWidget *widget, gpointer *data)
+{
+    gtk_main_quit();
+}
+
+
+void *testViewCreate(void *arg)
+{
+	
 	pthread_mutex_init(&MUTEX_Test,NULL);	
 	CONTROL_STREAM_FLAG = 0;
 	SOCKET_FOR_CLOSE = 0;
@@ -201,19 +227,82 @@ int main()
 	BASE_INFO_LOG(InfoLogHandle,"%s","start from main func!!!!!!\n");
 //	rcdSpeechRecognition(print_func,2,8);
 
-	
-#if 1
+
 	while(1)
 	{
-		char buff[1024] = "";
-		printf(">>	");
-		scanf("%s",buff);
-	printf("%s\n",buff);
-		semcParseResponse(buff,semcParseHandTemp,&smdRlt); 
-		madAlsaPlaying(&smdRlt,semcParseHandTemp,madAlsaHandTemp);	
+		if(strlen(buffCmd)!= 0)
+		{
+			
+			printf("%s\n",buffCmd);
+			
+			if(strcmp(buffCmd,"下载歌曲")==0||strcmp(buffCmd,"下载")==0)
+			{
+			   downLoadSong();
+			}else{
+				semcParseResponse(buffCmd,semcParseHandTemp,&smdRlt); 
+				madAlsaPlaying(&smdRlt,semcParseHandTemp,madAlsaHandTemp);	
+			}
+			memset(buffCmd,0,1024);
+		}
 	}
-#endif
+
+}
+
+
+
+int main(int argc,char **argv)
+{
+	pthread_t testView;
+	pthread_attr_t	testViewAttr;
+	pthread_attr_init(&testViewAttr);
+	pthread_attr_setdetachstate(&testViewAttr,PTHREAD_CREATE_DETACHED); 
+	if(pthread_create(&testView,&testViewAttr,testViewCreate,(void*)NULL)!=0)
+			PERROR(-1,"\npthread_create error");	
+
+
+	GtkWidget *window;
+	GtkWidget *btnPlay;
+	GtkWidget *btnSave;
+
+	//初始化图形显示环境
+	gtk_init(&argc, &argv);
+
+	//创建窗口，并设置当关闭窗口时要执行的回调函数
+	window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
+	g_signal_connect(GTK_OBJECT(window), "destroy",
+		GTK_SIGNAL_FUNC(destroy), NULL);
+
 	
+	
+	GtkWidget *hbox = gtk_hbox_new(FALSE,0);
+	
+		gtk_container_add(GTK_CONTAINER(window), hbox);   
+	//设置窗口属性
+	gtk_container_border_width(GTK_CONTAINER(window), 15);
+	gtk_widget_set_usize(GTK_WINDOW(window),150,55);
+
+	//创建按钮，并设置当单击按钮时要执行的回调函数
+	btnPlay = gtk_button_new_with_label("Play");
+	g_signal_connect(GTK_OBJECT(btnPlay), "clicked",
+		GTK_SIGNAL_FUNC(playMp3), NULL);
+	
+	
+//	gtk_container_add(GTK_CONTAINER(hbox),btnPlay);
+
+	btnSave = gtk_button_new_with_label("Down");
+	g_signal_connect(GTK_OBJECT(btnSave), "clicked",
+				GTK_SIGNAL_FUNC(saveMp3), NULL);
+	
+	//将按钮加入到窗口中
+	gtk_container_add(GTK_CONTAINER(hbox),btnPlay);
+	gtk_container_add(GTK_CONTAINER(hbox),btnSave);
+
+	//显示窗体和按钮
+	gtk_widget_show(hbox);
+	gtk_widget_show(btnPlay);
+	gtk_widget_show(btnSave);
+	gtk_widget_show(window);
+	gtk_main();
 
 }
 

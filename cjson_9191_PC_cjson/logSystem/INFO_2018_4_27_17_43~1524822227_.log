@@ -1,0 +1,308 @@
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524820667000,
+			"updateTime":	1524820667000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"哑巴 (Live)",
+			"albumName":	"无限歌谣季 第一期",
+			"singerName":	"薛之谦",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20180421/20180421192002238882.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688794682983972864,
+			"songSize":	4706811323466383360,
+			"songUrl":	"http://fs.w.kugou.com/201804271634/18b6a6c94ed5fd8a12b8fae24e2a87c9/G128/M01/07/09/IIcBAFrZtBKAWz4bAEfP2AEbmFI568.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"哑巴 (Live)",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271634/18b6a6c94ed5fd8a12b8fae24e2a87c9/G128/M01/07/09/IIcBAFrZtBKAWz4bAEfP2AEbmFI568.mp3"|"哑巴 (Live)"|"薛之谦"
+media_url_"http://fs.w.kugou.com/201804271634/18b6a6c94ed5fd8a12b8fae24e2a87c9/G128/M01/07/09/IIcBAFrZtBKAWz4bAEfP2AEbmFI568.mp3"		&
+http://fs.w.kugou.com/201804271634/18b6a6c94ed5fd8a12b8fae24e2a87c9/G128/M01/07/09/IIcBAFrZtBKAWz4bAEfP2AEbmFI568.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524820682000,
+			"updateTime":	1524820682000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"泡沫",
+			"albumName":	"The Best of G.E.M. 2008-2012",
+			"singerName":	"G.E.M.邓紫棋",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20141205/20141205151617709581.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4688104825336889344,
+			"songSize":	4706245871694512128,
+			"songUrl":	"http://fs.w.kugou.com/201804271717/eb54b1bd3c7d1074fd67e176407e809f/G014/M04/06/00/roYBAFUNrtGAHAsgAD_jX82AXsQ153.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"泡沫",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271717/eb54b1bd3c7d1074fd67e176407e809f/G014/M04/06/00/roYBAFUNrtGAHAsgAD_jX82AXsQ153.mp3"|"泡沫"|"G.E.M.邓紫棋"
+media_url_"http://fs.w.kugou.com/201804271717/eb54b1bd3c7d1074fd67e176407e809f/G014/M04/06/00/roYBAFUNrtGAHAsgAD_jX82AXsQ153.mp3"		&
+http://fs.w.kugou.com/201804271717/eb54b1bd3c7d1074fd67e176407e809f/G014/M04/06/00/roYBAFUNrtGAHAsgAD_jX82AXsQ153.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524821284000,
+			"updateTime":	1524821284000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"ヤキモチ",
+			"albumName":	"今、そこにある明滅と群生",
+			"singerName":	"高橋優",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20150717/20150717141848372793.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4689155271258275840,
+			"songSize":	4707172095350537216,
+			"songUrl":	"http://fs.w.kugou.com/201804271715/08f5ae75e342584fc78e8caf3ee397cf/G013/M03/02/17/TQ0DAFUK1YWAD67hAEzwU53NyQ0614.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"ヤキモチ",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271715/08f5ae75e342584fc78e8caf3ee397cf/G013/M03/02/17/TQ0DAFUK1YWAD67hAEzwU53NyQ0614.mp3"|"ヤキモチ"|"高橋優"
+media_url_"http://fs.w.kugou.com/201804271715/08f5ae75e342584fc78e8caf3ee397cf/G013/M03/02/17/TQ0DAFUK1YWAD67hAEzwU53NyQ0614.mp3"		&
+http://fs.w.kugou.com/201804271715/08f5ae75e342584fc78e8caf3ee397cf/G013/M03/02/17/TQ0DAFUK1YWAD67hAEzwU53NyQ0614.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524821290000,
+			"updateTime":	1524821290000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"天亮了",
+			"albumName":	"青藏高原(LPCD)",
+			"singerName":	"韩红",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20160907/20160907232610858286.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686925977073221632,
+			"songSize":	4704950114421047296,
+			"songUrl":	"http://fs.w.kugou.com/201804271702/a3490ee7261dc9be808e00a1db656916/G003/M07/00/18/Qw0DAFT9_T-AXPzyADauZz14aHU500.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"天亮了",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271702/a3490ee7261dc9be808e00a1db656916/G003/M07/00/18/Qw0DAFT9_T-AXPzyADauZz14aHU500.mp3"|"天亮了"|"韩红"
+media_url_"http://fs.w.kugou.com/201804271702/a3490ee7261dc9be808e00a1db656916/G003/M07/00/18/Qw0DAFT9_T-AXPzyADauZz14aHU500.mp3"		&
+http://fs.w.kugou.com/201804271702/a3490ee7261dc9be808e00a1db656916/G003/M07/00/18/Qw0DAFT9_T-AXPzyADauZz14aHU500.mp3
+data^^^^^^^^	sem_wait_pthread_change
+being closed  by others ^^^^
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524821720000,
+			"updateTime":	1524821720000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"大王叫我来巡山",
+			"albumName":	"大王叫我来巡山",
+			"singerName":	"贾云馨",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20151113/20151113033107728186.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686833515017273344,
+			"songSize":	4704868327506313216,
+			"songUrl":	"http://fs.w.kugou.com/201804271732/735bed67fadaf9f65416bdd546abca2e/G053/M03/1E/17/1YYBAFZu2nCADjMWADYZopDuHUk444.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"大王叫我来巡山",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271732/735bed67fadaf9f65416bdd546abca2e/G053/M03/1E/17/1YYBAFZu2nCADjMWADYZopDuHUk444.mp3"|"大王叫我来巡山"|"贾云馨"
+media_url_"http://fs.w.kugou.com/201804271732/735bed67fadaf9f65416bdd546abca2e/G053/M03/1E/17/1YYBAFZu2nCADjMWADYZopDuHUk444.mp3"		&
+http://fs.w.kugou.com/201804271732/735bed67fadaf9f65416bdd546abca2e/G053/M03/1E/17/1YYBAFZu2nCADjMWADYZopDuHUk444.mp3
+data^^^^^^^^	sem_wait_pthread_change
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+start from main func!!!!!!
+quesCmdBuf - 听歌

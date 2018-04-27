@@ -1,80 +1,28 @@
-{
-	"code":	"200",
-	"msg":	"正常",
-	"content":	{
-		"result":	{
-			"version":	0,
-			"createTime":	1524557545000,
-			"updateTime":	1524557545000,
-			"createUser":	"",
-			"updateUser":	"",
-			"remarks":	"",
-			"delFlag":	"0",
-			"id":	null,
-			"songId":	null,
-			"songName":	"文爱",
-			"albumName":	"文爱",
-			"singerName":	"贺敬轩",
-			"lyricist":	null,
-			"composer":	null,
-			"programme":	null,
-			"style":	null,
-			"mood":	null,
-			"language":	null,
-			"festival":	null,
-			"scene":	null,
-			"country":	null,
-			"theme":	null,
-			"years":	null,
-			"type":	null,
-			"img":	"http://imge.kugou.com/stdmusic/20170624/20170624062006553914.jpg",
-			"auxiliary":	null,
-			"publishDate":	null,
-			"lyrics":	null,
-			"songTime":	4686148347474477056,
-			"songSize":	4704182165678587904,
-			"songUrl":	"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3",
-			"extName":	null,
-			"bitrate":	null,
-			"otherName":	null,
-			"mvUrl":	null
-		},
-		"txt":	"放歌",
-		"answer":	"文爱",
-		"service":	"com.huwen.music",
-		"cmdType":	"music",
-		"params":	{
-			"mediaOperation":	"mediaPlay",
-			"mediaMode":	"mediaSequential"
-		}
-	},
-	"isDone":	"0"
-}
-songJun|"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3"|"文爱"|"贺敬轩"
-media_url_"http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3"		&
-http://fs.w.kugou.com/201804241522/69b1e0680f0e7e4943d31ef6667147ca/G126/M02/05/01/HocBAFqng5eAWyfgADE5g2vAjeo396.mp3
+"http://fs.w.kugou.com/201804271709/2d2dd6d0ee116418f57f03c2567bebde/G006/M04/1B/19/Rg0DAFS5G1KAU3w5AB-Q55wRwmA802.mp3"|"蓝精灵"|"樊竹青"
+media_url_"http://fs.w.kugou.com/201804271709/2d2dd6d0ee116418f57f03c2567bebde/G006/M04/1B/19/Rg0DAFS5G1KAU3w5AB-Q55wRwmA802.mp3"		&
+http://fs.w.kugou.com/201804271709/2d2dd6d0ee116418f57f03c2567bebde/G006/M04/1B/19/Rg0DAFS5G1KAU3w5AB-Q55wRwmA802.mp3
 data^^^^^^^^	sem_wait_pthread_change
 being closed  by others ^^^^
 sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
 dataBoradPlay^^^^^^^^^^^^_over_sem_
-quesCmdBuf - 放歌
+quesCmdBuf - 听歌
 {
 	"code":	"200",
 	"msg":	"正常",
 	"content":	{
 		"result":	{
 			"version":	0,
-			"createTime":	1524557554000,
-			"updateTime":	1524557554000,
+			"createTime":	1524822424000,
+			"updateTime":	1524822424000,
 			"createUser":	"",
 			"updateUser":	"",
 			"remarks":	"",
 			"delFlag":	"0",
 			"id":	null,
 			"songId":	null,
-			"songName":	"123我爱你+走在冷风中",
-			"albumName":	"未知专辑",
-			"singerName":	"冯提莫",
+			"songName":	"歌在飞",
+			"albumName":	"歌在飞",
+			"singerName":	"苏勒亚其其格",
 			"lyricist":	null,
 			"composer":	null,
 			"programme":	null,
@@ -87,20 +35,20 @@ quesCmdBuf - 放歌
 			"theme":	null,
 			"years":	null,
 			"type":	null,
-			"img":	"http://singerimg.kugou.com/uploadpic/softhead/400/20180327/20180327183312661.jpg",
+			"img":	"http://imge.kugou.com/stdmusic/20160909/20160909073245320421.jpg",
 			"auxiliary":	null,
 			"publishDate":	null,
 			"lyrics":	null,
-			"songTime":	4684464789013921792,
-			"songSize":	4702499393197047808,
-			"songUrl":	"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3",
+			"songTime":	4687623788999737344,
+			"songSize":	4705646599202668544,
+			"songUrl":	"http://fs.w.kugou.com/201804271737/139f929472a1a9c935dc187c55474e3c/G066/M02/1A/15/IpQEAFeLN6iASA0UADuhTekhTuM832.mp3",
 			"extName":	null,
 			"bitrate":	null,
 			"otherName":	null,
 			"mvUrl":	null
 		},
-		"txt":	"放歌",
-		"answer":	"123我爱你+走在冷风中",
+		"txt":	"听歌",
+		"answer":	"歌在飞",
 		"service":	"com.huwen.music",
 		"cmdType":	"music",
 		"params":	{
@@ -110,10 +58,69 @@ quesCmdBuf - 放歌
 	},
 	"isDone":	"0"
 }
-songJun|"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3"|"123我爱你+走在冷风中"|"冯提莫"
-media_url_"http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3"		&
-http://fs.w.kugou.com/201804241523/3f15351a9ea6f0eb5f72537c599913e1/G128/M01/08/1B/IIcBAFp8yZuAMPPbACVEkatQztI566.mp3
+songJun|"http://fs.w.kugou.com/201804271737/139f929472a1a9c935dc187c55474e3c/G066/M02/1A/15/IpQEAFeLN6iASA0UADuhTekhTuM832.mp3"|"歌在飞"|"苏勒亚其其格"
+media_url_"http://fs.w.kugou.com/201804271737/139f929472a1a9c935dc187c55474e3c/G066/M02/1A/15/IpQEAFeLN6iASA0UADuhTekhTuM832.mp3"		&
+http://fs.w.kugou.com/201804271737/139f929472a1a9c935dc187c55474e3c/G066/M02/1A/15/IpQEAFeLN6iASA0UADuhTekhTuM832.mp3
 data^^^^^^^^	sem_wait_pthread_change
 being closed  by others ^^^^
 sem_wait paly Writed &&&&&&&&&&&&&&&&&&&&&&&&&&^
+dataBoradPlay^^^^^^^^^^^^_over_sem_
+start from main func!!!!!!
+quesCmdBuf - 听歌
+{
+	"code":	"200",
+	"msg":	"正常",
+	"content":	{
+		"result":	{
+			"version":	0,
+			"createTime":	1524822472000,
+			"updateTime":	1524822472000,
+			"createUser":	"",
+			"updateUser":	"",
+			"remarks":	"",
+			"delFlag":	"0",
+			"id":	null,
+			"songId":	null,
+			"songName":	"广东爱情故事",
+			"albumName":	"广东爱情故事",
+			"singerName":	"广东雨神",
+			"lyricist":	null,
+			"composer":	null,
+			"programme":	null,
+			"style":	null,
+			"mood":	null,
+			"language":	null,
+			"festival":	null,
+			"scene":	null,
+			"country":	null,
+			"theme":	null,
+			"years":	null,
+			"type":	null,
+			"img":	"http://imge.kugou.com/stdmusic/20171019/20171019192011818056.jpg",
+			"auxiliary":	null,
+			"publishDate":	null,
+			"lyrics":	null,
+			"songTime":	4686592996848697344,
+			"songSize":	4704618989622393856,
+			"songUrl":	"http://fs.w.kugou.com/201804271712/987d46175aa8cf7f0b008de569feb373/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3",
+			"extName":	null,
+			"bitrate":	null,
+			"otherName":	null,
+			"mvUrl":	null
+		},
+		"txt":	"听歌",
+		"answer":	"广东爱情故事",
+		"service":	"com.huwen.music",
+		"cmdType":	"music",
+		"params":	{
+			"mediaOperation":	"mediaPlay",
+			"mediaMode":	"mediaSequential"
+		}
+	},
+	"isDone":	"0"
+}
+songJun|"http://fs.w.kugou.com/201804271712/987d46175aa8cf7f0b008de569feb373/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3"|"广东爱情故事"|"广东雨神"
+media_url_"http://fs.w.kugou.com/201804271712/987d46175aa8cf7f0b008de569feb373/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3"		&
+http://fs.w.kugou.com/201804271712/987d46175aa8cf7f0b008de569feb373/G114/M0B/00/13/UpQEAFnocumANGxzADRUF4h4Zks442.mp3
+data^^^^^^^^	sem_wait_pthread_change
 dataBoradPlay^^^^^^^^^^^^_over_sem_
